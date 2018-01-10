@@ -17,3 +17,14 @@ ssserver -d stop
 ssserver -d restart -c server.json
 
 ```
+
+## server.json
+
+```
+{
+ "server": "::",
+"timeout": 300,
+"method": "aes-256-cfb",   //默认，也可以根据自己需求改
+"port_password": {"your_port":"your_password"}}
+
+```
