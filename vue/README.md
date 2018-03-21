@@ -204,6 +204,7 @@ start数目以项目数为准，这里不一定会经常更新
 - [vue-cascading-address](https://github.com/savokiss/vue-cascading-address) ★9 - vue地区选择器 
 - [dd-vue-component](https://github.com/ibufu/dd-vue-component) ★7 - 订单来了的公共组件库 
 - [vue-button](https://github.com/steven5538/vue-button) ★5 - Vue按钮组件 
+- [vue-canvas](https://github.com/calamus0427/calamus-vue-canvas)★1 - 不开玩笑，我自己写的vue-canvas背景动画特效，慢慢更新，希望不被嫌弃 
 
 ## 开发框架 
 
@@ -230,6 +231,8 @@ start数目以项目数为准，这里不一定会经常更新
 - [vue-element-starter](https://github.com/Metnew/vue-element-starter) ★83 - vue启动页 
 - [vuemin](https://github.com/yangjiewu/vuemin) ★17 - 基于Vue的企业级前端开发框架 
 - [vue-team-template](https://github.com/woleicom/vue-team-template) ★12 - 一种构建vue项目的选择方案 
+- [vue-element-admin](https://github.com/calamus0427/vue-element-admin-calamus) ★1 - 我又来卖弄自己的作品了，简单的后台管理框架？
+
 
 ## 实用库 
 
