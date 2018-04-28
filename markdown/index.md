@@ -1,0 +1,1 @@
+<iframe width="100%" height="300" src="//jsfiddle.net/calamus/aaphrwjc/embedded/" allowpaymentrequest allowfullscreen="allowfullscreen" frameborder="0"></iframe>
